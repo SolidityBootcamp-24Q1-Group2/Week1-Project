@@ -1,1 +1,36 @@
 # Week1-Project Report
+
+Hash: 0xad54f86ba2173181da670baef80958098f5e6efe90bee48d5eaf02e524e9b00c
+Action: Contract Creation
+Address: 0x8d3A992124c05ADBb45b13B8092DD2A3eF15737A
+Status: OK
+
+Hash: 0x26fcc793779079e17389ca0b1d92fdc4a4204b9ca6240d6027d65d3599f22098
+Action: Transfer Ownership
+Address: 0x8d3A992124c05ADBb45b13B8092DD2A3eF15737A
+Status: OK
+
+Hash: 0xc7dd6f91a2b1d4603503c79c13743f3a4ac36ae8e34776b15f0f40696cd4fb1a
+Action: Set Text
+Address: 0xC90a3BEB6752aDF7c5ca1103277eDA02027E5E11
+Status: OK
+
+Hash: 0xf67ebef9d4fce7ba70e66c7f2a32eb2395315d6eb2cd0a625c75e04079af9e57
+Action:  Transfer Ownership
+Address: 0xC90a3BEB6752aDF7c5ca1103277eDA02027E5E11
+Status: OK
+
+Hash: 0x9b7f87be295b28e3e8c8c28d9470d448116e1fe62d32554ea5f3d33be8d8b59a
+Action:  Set Text
+Address: 0xc690D6552634576E1ADAD0299CAd8e732e0A20FF
+Status: OK
+
+Hash: 0x97a57cba38354ba38d10bee4d5e8e69d34e6999227742032bf0d1077c912cbb6
+Action:  Transfer Ownership
+Address: 0xc690D6552634576E1ADAD0299CAd8e732e0A20FF
+Status: OK
+
+Hash: 0x72bf483cd5f31fc1cf732b8b4e8a407866a99b6bae709f44829b5df70f22269c
+Action:  Set Text
+Address: 0xc690D6552634576E1ADAD0299CAd8e732e0A20FF
+Status: Execution Reverted Fail with error 'Caller is not the owner'
